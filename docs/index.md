@@ -13,9 +13,14 @@ hero:
       text: 开始
       link: /dart/
     - theme: alt
-      text: 在 GitHub 上查看
+      text: Vue前端 GitHub
+      link: https://github.com/meetSeparate/vue-drf-template
+    - theme: alt
+      text: DRF后端 GitHub
+      link: https://github.com/meetSeparate/drf-vue-template
+    - theme : brand
+      text: 🎉 文档 GitHub 
       link: https://github.com/meetSeparate/enyAdmin-docs
-
 features:
   - title: 赞助商1
     icon: 😶‍🌫️
