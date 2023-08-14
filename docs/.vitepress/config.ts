@@ -1,6 +1,4 @@
-
 import { defineConfig } from "vitepress";
-
 
 export default defineConfig({
   base: '/',
@@ -13,8 +11,8 @@ export default defineConfig({
   themeConfig: {
     logo: '/favicon.ico',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/nanarino' },
-      { icon: 'twitter', link: 'https://twitter.com/kogawananari' }
+      { icon: 'github', link: 'https://github.com/meetSeparate/enyAdmin-docs' },
+      // { icon: 'twitter', link: 'https://twitter.com/kogawananari' }
     ],
     sidebar: {
       '/dart/': [{
