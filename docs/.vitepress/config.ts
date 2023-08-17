@@ -18,7 +18,7 @@ export default defineConfig({
       '/dart/': [{
         text: '语言特性',
         items: [
-          { text: '安装dart', link: '/dart/' },
+          { text: '安装node', link: '/dart/' },
           { text: '基本语法', link: '/dart/基本语法' },
           { text: '数据类型', link: '/dart/数据类型' },
           { text: '函数', link: '/dart/函数' },
