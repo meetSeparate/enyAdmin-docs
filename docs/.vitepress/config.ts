@@ -11,7 +11,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/favicon.ico',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/meetSeparate/enyAdmin-docs' },
+      { icon: 'github', link: 'https://github.com/meetSeparate/enyAdmin-docs' }
       // { icon: 'twitter', link: 'https://twitter.com/kogawananari' }
     ],
     sidebar: {

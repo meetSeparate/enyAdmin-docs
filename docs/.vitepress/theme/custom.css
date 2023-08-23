@@ -18,3 +18,14 @@
 #VPContent .VPHomeHero .image-container:hover .image-bg {
   opacity: 1;
 }
+
+.docs-cn-github-release-tag {
+  font-size: 14px;
+  font-weight: bold;
+  padding: 4px 6px;
+  margin-left: 6px;
+  background: var(--vp-c-brand);
+  color: white;
+  border-radius: 10px;
+  vertical-align: middle;
+}

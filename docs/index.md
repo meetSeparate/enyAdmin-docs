@@ -4,7 +4,8 @@ titleTemplate: EnyAdmin
 
 hero:
   name: EnyAdmin
-  tagline: 比较完善的后台管理开发模板，为开发提供极大便利
+  text: 超级恐怖的后台模板
+  tagline: 为开发提供极大便利
   image:
     src: /EvJiiArXYAEyyuL.png
     alt: EnyAdmin
@@ -41,3 +42,12 @@ features:
     icon: 🛠️
     details: 用户RBAC三级权限校验，消息管理以及发送消息，异常页面等功能。
 ---
+
+<script setup>
+import { onMounted } from 'vue'
+import { fetchReleaseTag } from './.vitepress/utils/fetchReleaseTag.js'
+
+onMounted(() => {
+  fetchReleaseTag()
+})
+</script>

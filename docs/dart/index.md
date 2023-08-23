@@ -1,6 +1,6 @@
 # 安装Node
 
-## Windows
+## node版本
 
 node版本最好是16版本，16是比较稳定的版本
 
